@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menuInicio.unity
+    guid: 853859ce79a066a4faad703b5adc2007
+  - enabled: 1
+    path: Assets/Scenes/NV1.unity
+    guid: 637b31c10225e86479a2b9fa51841654
+  - enabled: 1
+    path: Assets/Scenes/NV2.unity
+    guid: 193bc46b5fd107c4e94961a042a7f18f
+  - enabled: 1
+    path: Assets/Scenes/NV3.unity
+    guid: f913f3e26689a8b419218de15f5213f2
+  - enabled: 1
+    path: Assets/Scenes/NV4.unity
+    guid: 0e0d147133fd90a4098c2d5aac8b0258
+  - enabled: 1
+    path: Assets/Scenes/NV5.unity
+    guid: 36148c5222d709c418098e0c754af5d0
+  - enabled: 1
+    path: Assets/Scenes/GA.unity
+    guid: 5131735368bd3e34284e21f884aeb314
+  - enabled: 1
+    path: Assets/Scenes/creditos.unity
+    guid: a2f3396ffd4691644aaafea55aaea783
+  - enabled: 1
+    path: Assets/Scenes/comoJugar.unity
+    guid: 989c19192fb846a47a0f589b1d6ee940
+  - enabled: 1
+    path: Assets/Scenes/historiaInicio.unity
+    guid: 1619e0a05a52b7c4fb8b0e99903a5e07
+  - enabled: 1
+    path: Assets/Scenes/final.unity
+    guid: a8ef151bde9694741bfc5ab37d5dd8f8
+  m_configObjects: {}
